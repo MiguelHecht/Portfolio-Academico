@@ -7,8 +7,7 @@ Este repositório contém projetos acadêmicos e pessoais desenvolvidos para fin
 - **projetos-pessoais/**: Projetos individuais ou colaborativos.
 
 ## 📌 Projetos em Destaque
-1. [Projeto Calculadora](projetos-academicos/projeto-calculadora/): Calculadora simples em Python com interface gráfica.
-2. [Projeto Website Pessoal](projetos-pessoais/projeto-website/): Website pessoal feito com HTML, CSS e JavaScript.
+1. [Projeto Banco de Cadastros](https://github.com/MiguelHecht/Cadastro): Um banco de cadastro simples para fins de aprendizado.
 
 ---
 
