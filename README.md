@@ -7,8 +7,8 @@ Este repositório contém projetos acadêmicos e pessoais desenvolvidos para fin
 - **projetos-pessoais/**: Projetos individuais ou colaborativos.
 
 ## 📌 Projetos em Destaque
-1. [Projeto Banco de Cadastros](https://github.com/MiguelHecht/Cadastro): Um banco de cadastro simples para fins de aprendizado com foco em deixar outros usuarios utilizarem e inovarem.
-2. [Projeto Loja de Jogos com Fork](https://github.com/MiguelHecht/aluga-games): Uma loja de jogos compartilhada com algumas mudanças do projeto original do usuario vitorf1.
+1. [Projeto Banco de Cadastros](https://github.com/MiguelHecht/Cadastro): Um banco de cadastro simples para fins de aprendizado com foco em deixar outros usuarios utilizarem e inovarem (pessoal).
+2. [Projeto Loja de Jogos com Fork](https://github.com/MiguelHecht/aluga-games): Uma loja de jogos compartilhada com algumas mudanças do projeto original do usuario vitorf1 (pessoal).
 
 ---
 
